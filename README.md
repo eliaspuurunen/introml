@@ -16,6 +16,7 @@ Download the ZIP bundle, then extract all the data files. https://github.com/eli
 - Connect on LinkedIn: https://www.linkedin.com/in/eliaspuurunen/
 - Find out more about virtual and hybrid event production: https://www.tractusevents.com
 - Book a call with Elias: https://calendly.com/tractus-elias/meeting-w-elias
+- Find out more about DABI: https://uwaterloo.ca/watspeed/programs-and-courses/python-and-public-data
 
 ## Data Sources
 
