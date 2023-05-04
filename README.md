@@ -11,6 +11,12 @@ This repository contains the demo files required for the Intro to ML session.
 
 Download the ZIP bundle, then extract all the data files. https://github.com/eliaspuurunen/introml/raw/main/DataFiles.zip
 
+# Contact Elias
+
+- Connect on LinkedIn: https://www.linkedin.com/in/eliaspuurunen/
+- Find out more about virtual and hybrid event production: https://www.tractusevents.com
+- Book a call with Elias: https://calendly.com/tractus-elias/meeting-w-elias
+
 ## Data Sources
 
 Confirmed positive cases of COVID-19 in Ontario - Ontario Data Catalogue. Dataset - Ontario Data Catalogue. (n.d.). Retrieved May 1, 2023, from https://data.ontario.ca/dataset/confirmed-positive-cases-of-covid-19-in-ontario 
