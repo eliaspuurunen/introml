@@ -1,0 +1,49 @@
+Genus,Subfamily,Family,Species,CanRoar,CanPurr,CanMeow,WeightLb,SizeCm
+Panthera,Pantherinae,Felidae,African Lion,Yes,No,Yes,420,190
+Panthera,Pantherinae,Felidae,Siberian Tiger,Yes,No,Yes,600,250
+Panthera,Pantherinae,Felidae,Amur Leopard,Yes,Yes,Yes,150,180
+Panthera,Pantherinae,Felidae,Black Panther,Yes,Yes,Yes,160,180
+Neofelis,Pantherinae,Felidae,Bornean Clouded Leopard,No,Yes,Yes,60,100
+Puma,Puma,Felidae,North American Cougar,Yes,No,Yes,160,210
+Acinonyx,Acinonychinae,Felidae,Iranian Cheetah,No,No,Yes,120,140
+Lynx,Lynxinae,Felidae,Iberian Lynx,No,Yes,Yes,50,85
+Lynx,Lynxinae,Felidae,Canadian Lynx,No,Yes,Yes,30,70
+Lynx,Lynxinae,Felidae,Bobcat,No,Yes,Yes,30,75
+Leopardus,Leopardinae,Felidae,Mexican Ocelot,No,Yes,Yes,25,90
+Leopardus,Leopardinae,Felidae,Geoffroy's Cat,No,Yes,Yes,10,55
+Leopardus,Leopardinae,Felidae,Colombian Margay,No,Yes,Yes,9,50
+Leopardus,Leopardinae,Felidae,Andean Mountain Cat,No,Yes,Yes,6,55
+Leopardus,Leopardinae,Felidae,Chilean Pampas Cat,No,Yes,Yes,12,65
+Leopardus,Leopardinae,Felidae,Ecuadorian Jaguarundi,Yes,Yes,Yes,15,80
+Leptailurus,Caracalinae,Felidae,Savannah Caracal,Yes,Yes,Yes,45,60
+Prionailurus,Felinae,Felidae,Rusty-Spotted Cat,No,Yes,Yes,4,35
+Prionailurus,Felinae,Felidae,Leopard Cat,No,Yes,Yes,8,60
+Prionailurus,Felinae,Felidae,Fishing Cat,No,Yes,Yes,20,90
+Felis,Felinae,Felidae,Sand Cat,No,Yes,Yes,7,50
+Felis,Felinae,Felidae,Serval,Yes,Yes,Yes,40,90
+Felis,Felinae,Felidae,European Wildcat,No,Yes,Yes,12,60
+Felis,Felinae,Felidae,Domestic Cat,No,Yes,Yes,10,25
+Panthera,Pantherinae,Felidae,Indian Lion,Yes,No,Yes,400,185
+Panthera,Pantherinae,Felidae,Indochinese Tiger,Yes,No,Yes,500,240
+Panthera,Pantherinae,Felidae,Javan Leopard,Yes,Yes,Yes,110,180
+Panthera,Pantherinae,Felidae,Malayan Tiger,Yes,No,Yes,250,220
+Neofelis,Pantherinae,Felidae,Indochinese Clouded Leopard,No,Yes,Yes,80,120
+Puma,Puma,Felidae,Chilean Cougar,Yes,No,Yes,150,210
+Acinonyx,Acinonychinae,Felidae,East African Cheetah,No,No,Yes,130,135
+Lynx,Lynxinae,Felidae,Eurasian Lynx,No,Yes,Yes,60,90
+Lynx,Lynxinae,Felidae,Ice Lynx,No,Yes,Yes,45,80
+Lynx,Lynxinae,Felidae,Spotted Lynx,No,Yes,Yes,35,70
+Leopardus,Leopardinae,Felidae,Southern Oncilla,No,Yes,Yes,3,35
+Leopardus,Leopardinae,Felidae,Guigna,No,Yes,Yes,3,35
+Leopardus,Leopardinae,Felidae,Oncilla,No,Yes,Yes,6,50
+Leopardus,Leopardinae,Felidae,Southern Tiger Cat,No,Yes,Yes,10,60
+Leptailurus,Caracalinae,Felidae,African Caracal,Yes,Yes,Yes,35,60
+Prionailurus,Felinae,Felidae,Pallas's Cat,No,Yes,Yes,10,50
+Prionailurus,Felinae,Felidae,Flat-Headed Cat,No,Yes,Yes,9,50
+Prionailurus,Felinae,Felidae,Jungle Cat,No,Yes,Yes,15,85
+Felis,Felinae,Felidae,Chinese Desert Cat,No,Yes,Yes,8,50
+Felis,Felinae,Felidae,Black-Footed Cat,No,Yes,Yes,4,35
+Felis,Felinae,Felidae,Siberian Cat,No,Yes,Yes,12,55
+Felis,Felinae,Felidae,Sandstone Cat,No,Yes,Yes,6,45
+Felis,Felinae,Felidae,Swamp Cat,Yes,Yes,Yes,20,80
+Felis,Felinae,Felidae,Wildcat,No,Yes,Yes,8,55
